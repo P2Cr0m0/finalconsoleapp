@@ -16,10 +16,10 @@ namespace finalconsoleapp
         {
             get
             {
-                return FirstName + " " + LastName;
+                return FirstName + " " + LastName + "   ";
             }
         }
-
+        //im better than you, like way better
 
 
     }
